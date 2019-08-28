@@ -1,0 +1,40 @@
+##########################################################
+           Sistema ADN-X (v. 14.11 estable)
+**********************************************************
+
+Sistema de audio iniciado correctamente.
+Modo grafico iniciado correctamente.
+Monitor de video iniciado correctamente.
+Sistema de audio finalizado correctamente.
+
+**********************************************************
+       El proyecto ADN-X ha finalizado correctamente      
+##########################################################
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyo la imagen1 del sprite sin Nombre
+Se destruyo la imagen2 del sprite sin Nombre
+Se destruyo la imagen3 del sprite sin Nombre
+Se destruyo la imagen4 del sprite sin Nombre
+Se destruyo la imagen5 del sprite sin Nombre
+Se destruyo la imagen6 del sprite sin Nombre
+Se destruyo la imagen7 del sprite sin Nombre
+Se destruyo la imagen8 del sprite sin Nombre
+Se destruyo la imagen9 del sprite sin Nombre
+Se destruyo la imagen10 del sprite sin Nombre
+Se destruyo la imagen11 del sprite sin Nombre
+Se destruyo la imagen12 del sprite sin Nombre
+Se destruyo la imagen13 del sprite sin Nombre
+Se destruyo la imagen14 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyo la imagen1 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyo la imagen1 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
+Se destruyo la imagen0 del sprite sin Nombre
+Se destruyeron la imagenes del sprite sin Nombre
